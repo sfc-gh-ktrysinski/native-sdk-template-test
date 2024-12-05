@@ -1,0 +1,13 @@
+com.snowflake.connectors.example
+com.snowflake.connectors.example.configuration.connection
+com.snowflake.connectors.example.configuration.finalize
+com.snowflake.connectors.example.configuration.utils
+com.snowflake.connectors.example.ingestion
+com.snowflake.connectors.example.ingestion.create
+com.snowflake.connectors.example.ingestion.disable
+com.snowflake.connectors.example.ingestion.enable
+com.snowflake.connectors.example.ingestion.exception
+com.snowflake.connectors.example.ingestion.update
+com.snowflake.connectors.example.integration
+com.snowflake.connectors.example.lifecycle.pause
+com.snowflake.connectors.example.lifecycle.resume
